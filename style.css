@@ -52,7 +52,7 @@ body {
   margin-top: 80px;
 }
 .konten h2 {
-  font-size: 96px;
+  font-size: 56px;
   font-weight: bold;
 }
 .konten p {
@@ -165,5 +165,9 @@ footer {
     padding: 0 1px;
     height: 200px;
     width: 320px;
+  }
+  .konten h2 {
+    font-size: 96px;
+    font-weight: bold;
   }
 }
