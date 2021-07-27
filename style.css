@@ -48,6 +48,18 @@ body {
   text-align: center;
 }
 /* KONTEN */
+.konten {
+  margin-top: 80px;
+}
+.konten h2 {
+  font-size: 96px;
+  color: #ff5f20;
+  font-weight: bold;
+}
+.konten p {
+  text-align: justify;
+  font-size: 20px;
+}
 .konten-html {
   margin-top: 120px;
 }
