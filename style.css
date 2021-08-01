@@ -14,7 +14,8 @@ body {
 /* HERO */
 .hero {
   background-color: #1f2227;
-  height: 740px;
+  height: 820px;
+  padding-top: 40px;
 }
 .hero .judul1 {
   color: white;
@@ -163,6 +164,11 @@ footer {
   font-weight: bold;
   color: white;
   padding: 50px;
+}
+footer p a {
+  color: white;
+  font-size: small;
+  text-decoration: none;
 }
 /* DEKSTOP RESPONSIS */
 @media (min-width: 992px) {
